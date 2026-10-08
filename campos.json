@@ -1,0 +1,1031 @@
+[
+ {
+  "id": "c001",
+  "creado": 1,
+  "lapices": [
+   {
+    "color": "#2f6fd6",
+    "nombre": "Azul"
+   }
+  ],
+  "lat": 40.4545,
+  "localidad": "Madrid",
+  "lon": -3.752,
+  "nombre": "Club de Campo Villa de Madrid (CCVM)",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c002",
+  "creado": 2,
+  "lapices": [
+   {
+    "color": "#d23a33",
+    "nombre": "Rojo redondo"
+   },
+   {
+    "color": "#8e1f22",
+    "nombre": "Rojo oscuro redondo"
+   },
+   {
+    "color": "#c8332d",
+    "nombre": "Rojo hexagonal"
+   }
+  ],
+  "lat": 40.459,
+  "localidad": "Madrid",
+  "lon": -3.741,
+  "nombre": "Real Club Puerta de Hierro (RCGPH)",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c003",
+  "creado": 3,
+  "lapices": [
+   {
+    "color": "#d23a33",
+    "nombre": "Rojo"
+   },
+   {
+    "color": "#f2c230",
+    "nombre": "Amarillo"
+   }
+  ],
+  "lat": 40.479,
+  "localidad": "Madrid",
+  "lon": -3.722,
+  "nombre": "Centro Nacional de Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c004",
+  "creado": 4,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.4826,
+  "localidad": "Madrid",
+  "lon": -3.736,
+  "nombre": "Federación de Golf de Madrid",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c005",
+  "creado": 5,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.46,
+  "localidad": "Madrid",
+  "lon": -3.615,
+  "nombre": "Olivar de la Hinojosa",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c006",
+  "creado": 6,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.512,
+  "localidad": "Alcobendas",
+  "lon": -3.64,
+  "nombre": "RC La Moraleja",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c007",
+  "creado": 7,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.528,
+  "localidad": "Alcobendas",
+  "lon": -3.632,
+  "nombre": "Golf Park",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c008",
+  "creado": 8,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.507,
+  "localidad": "Las Rozas de Madrid",
+  "lon": -3.875,
+  "nombre": "RCG Las Rozas",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c009",
+  "creado": 9,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.57,
+  "localidad": "San Sebastián de los Reyes",
+  "lon": -3.623,
+  "nombre": "Real Sociedad Hípica Española Club de Campo (RSHECC)",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c010",
+  "creado": 10,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.443,
+  "localidad": "Villalbilla",
+  "lon": -3.327,
+  "nombre": "El Robledal",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c011",
+  "creado": 11,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.58,
+  "localidad": "San Lorenzo de El Escorial",
+  "lon": -4.138,
+  "nombre": "RCG La Herrería",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Madrid"
+ },
+ {
+  "id": "c012",
+  "creado": 12,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.548,
+  "localidad": "Yebes",
+  "lon": -3.115,
+  "nombre": "Montealvar – Valdeluz",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Guadalajara"
+ },
+ {
+  "id": "c013",
+  "creado": 13,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 39.81,
+  "localidad": "El Gordo",
+  "lon": -5.45,
+  "nombre": "Valdecañas Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cáceres"
+ },
+ {
+  "id": "c014",
+  "creado": 14,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 40.909,
+  "localidad": "Salamanca",
+  "lon": -5.773,
+  "nombre": "La Valmuza Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Salamanca"
+ },
+ {
+  "id": "c015",
+  "creado": 15,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 42.413,
+  "localidad": "Cirueña",
+  "lon": -2.887,
+  "nombre": "Rioja Alta Golf Club",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "La Rioja"
+ },
+ {
+  "id": "c016",
+  "creado": 16,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 42.959,
+  "localidad": "Pamplona",
+  "lon": -1.667,
+  "nombre": "Club de Golf Ulzama",
+  "notas": "",
+  "origen": "jugado",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Navarra"
+ },
+ {
+  "id": "c017",
+  "creado": 17,
+  "lapices": [
+   {
+    "color": "#2e8b57",
+    "nombre": "Verde"
+   },
+   {
+    "color": "#c49a63",
+    "nombre": "Madera"
+   }
+  ],
+  "lat": 43.381,
+  "localidad": "Comillas",
+  "lon": -4.314,
+  "nombre": "Santa Marina Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cantabria"
+ },
+ {
+  "id": "c018",
+  "creado": 18,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 43.443,
+  "localidad": "Pedreña (Marina de Cudeyo)",
+  "lon": -3.755,
+  "nombre": "RCG Pedreña",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cantabria"
+ },
+ {
+  "id": "c019",
+  "creado": 19,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 43.289,
+  "localidad": "Zarautz",
+  "lon": -2.181,
+  "nombre": "RGC Zarauz",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Gipuzkoa"
+ },
+ {
+  "id": "c020",
+  "creado": 20,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 43.418,
+  "localidad": "Llanes",
+  "lon": -4.725,
+  "nombre": "Golf Municipal de Llanes",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Asturias"
+ },
+ {
+  "id": "c021",
+  "creado": 21,
+  "lapices": [
+   {
+    "color": "#3b5b8c",
+    "nombre": "Azul viejo"
+   },
+   {
+    "color": "#2f86e0",
+    "nombre": "Azul nuevo"
+   }
+  ],
+  "lat": 43.355,
+  "localidad": "Hondarribia",
+  "lon": -1.815,
+  "nombre": "RCG San Sebastián – Jaizkibel",
+  "notas": "",
+  "origen": "jugado",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Gipuzkoa"
+ },
+ {
+  "id": "c022",
+  "creado": 22,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 37.38,
+  "localidad": "Tomares",
+  "lon": -6.048,
+  "nombre": "Club Zaudín Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Sevilla"
+ },
+ {
+  "id": "c023",
+  "creado": 23,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.69,
+  "localidad": "Málaga",
+  "lon": -4.483,
+  "nombre": "Guadalhorce Club de Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Málaga"
+ },
+ {
+  "id": "c024",
+  "creado": 24,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.474,
+  "localidad": "San Pedro de Alcántara (Marbella)",
+  "lon": -5.009,
+  "nombre": "RCG Guadalmina",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Málaga"
+ },
+ {
+  "id": "c025",
+  "creado": 25,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 37.239,
+  "localidad": "Cartaya",
+  "lon": -7.131,
+  "nombre": "Golf El Rompido",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Huelva"
+ },
+ {
+  "id": "c026",
+  "creado": 26,
+  "lapices": [
+   {
+    "color": "#2f6fd6",
+    "nombre": "Azul"
+   },
+   {
+    "color": "#f2c230",
+    "nombre": "Amarillo"
+   },
+   {
+    "color": "#1d1f1e",
+    "nombre": "Negro"
+   },
+   {
+    "color": "#d23a33",
+    "nombre": "Rojo"
+   }
+  ],
+  "lat": 36.707,
+  "localidad": "Jerez de la Frontera",
+  "lon": -6.073,
+  "nombre": "Montecastillo",
+  "notas": "",
+  "origen": "jugado",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c027",
+  "creado": 27,
+  "lapices": [
+   {
+    "color": "#1d1f1e",
+    "nombre": "Negro"
+   },
+   {
+    "color": "#2e8b57",
+    "nombre": "Verde"
+   },
+   {
+    "color": "#d23a33",
+    "nombre": "Rojo"
+   }
+  ],
+  "lat": 36.729,
+  "localidad": "Jerez de la Frontera",
+  "lon": -6.103,
+  "nombre": "Sherry Golf Jerez",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c028",
+  "creado": 28,
+  "lapices": [
+   {
+    "color": "#f2f2ee",
+    "nombre": "Blanco"
+   },
+   {
+    "color": "#2f6fd6",
+    "nombre": "Azul"
+   }
+  ],
+  "lat": 36.406,
+  "localidad": "Casares",
+  "lon": -5.238,
+  "nombre": "Finca Cortesín",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Málaga"
+ },
+ {
+  "id": "c029",
+  "creado": 29,
+  "lapices": [
+   {
+    "color": "#2e8b57",
+    "nombre": "Verde"
+   },
+   {
+    "color": "#2f6fd6",
+    "nombre": "Azul"
+   },
+   {
+    "color": "#d23a33",
+    "nombre": "Rojo"
+   },
+   {
+    "color": "#ea8bb3",
+    "nombre": "Rosa"
+   }
+  ],
+  "lat": 36.588,
+  "localidad": "El Puerto de Santa María",
+  "lon": -6.255,
+  "nombre": "RCG Vista Hermosa (RCGVH)",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c030",
+  "creado": 30,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.292,
+  "localidad": "Sotogrande (San Roque)",
+  "lon": -5.283,
+  "nombre": "RCG Sotogrande",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c031",
+  "creado": 31,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.315,
+  "localidad": "Sotogrande (San Roque)",
+  "lon": -5.313,
+  "nombre": "La Reserva Club",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c032",
+  "creado": 32,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.555,
+  "localidad": "Puerto Real",
+  "lon": -6.153,
+  "nombre": "Villanueva Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c033",
+  "creado": 33,
+  "lapices": [
+   {
+    "color": "#6b7470",
+    "nombre": "Logo antiguo"
+   },
+   {
+    "color": "#9aa39f",
+    "nombre": "Logo nuevo"
+   }
+  ],
+  "lat": 36.296,
+  "localidad": "Sotogrande (San Roque)",
+  "lon": -5.309,
+  "nombre": "Valderrama",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c034",
+  "creado": 34,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 42.49,
+  "localidad": "O Grove",
+  "lon": -8.858,
+  "nombre": "RCG La Toja",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Pontevedra"
+ },
+ {
+  "id": "c035",
+  "creado": 35,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 42.493,
+  "localidad": "O Grove",
+  "lon": -8.852,
+  "nombre": "Campos y Rial – Golf La Toja",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Pontevedra"
+ },
+ {
+  "id": "c036",
+  "creado": 36,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 36.332,
+  "localidad": "Benalup-Casas Viejas",
+  "lon": -5.81,
+  "nombre": "Benalup – Fairplay Golf & Spa Resort",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Cádiz"
+ },
+ {
+  "id": "c037",
+  "creado": 37,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 41.564,
+  "localidad": "Terrassa",
+  "lon": 1.975,
+  "nombre": "RCG El Prat",
+  "notas": "",
+  "origen": "sin",
+  "pais": "España",
+  "paisId": "ESP",
+  "region": "Barcelona"
+ },
+ {
+  "id": "c038",
+  "creado": 38,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 37.09,
+  "localidad": "Vilamoura",
+  "lon": -8.116,
+  "nombre": "The Els Club",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Portugal",
+  "paisId": "PRT",
+  "region": "Faro"
+ },
+ {
+  "id": "c039",
+  "creado": 39,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 37.051,
+  "localidad": "Almancil",
+  "lon": -8.062,
+  "nombre": "Vale do Lobo",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Portugal",
+  "paisId": "PRT",
+  "region": "Faro"
+ },
+ {
+  "id": "c040",
+  "creado": 40,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 37.162,
+  "localidad": "Silves",
+  "lon": -8.327,
+  "nombre": "Amendoeira Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Portugal",
+  "paisId": "PRT",
+  "region": "Faro"
+ },
+ {
+  "id": "c041",
+  "creado": 41,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 48.847,
+  "localidad": "Garches (París)",
+  "lon": 2.187,
+  "nombre": "Golf de Saint-Cloud",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Francia",
+  "paisId": "FRA",
+  "region": "Altos del Sena"
+ },
+ {
+  "id": "c042",
+  "creado": 42,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 48.8566,
+  "localidad": "París",
+  "lon": 2.3522,
+  "nombre": "Le Club Golf",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Francia",
+  "paisId": "FRA",
+  "region": "París"
+ },
+ {
+  "id": "c043",
+  "creado": 43,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 25.086,
+  "localidad": "Dubái",
+  "lon": 55.163,
+  "nombre": "Emirates Golf Club",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Emiratos Árabes Unidos",
+  "paisId": "ARE",
+  "region": "Dubái"
+ },
+ {
+  "id": "c044",
+  "creado": 44,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 35.414,
+  "localidad": "Sanford",
+  "lon": -79.134,
+  "nombre": "Tobacco Road Golf Club",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Estados Unidos",
+  "paisId": "USA",
+  "region": "Carolina del Norte"
+ },
+ {
+  "id": "c045",
+  "creado": 45,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 35.19,
+  "localidad": "Pinehurst",
+  "lon": -79.468,
+  "nombre": "Pinehurst",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Estados Unidos",
+  "paisId": "USA",
+  "region": "Carolina del Norte"
+ },
+ {
+  "id": "c046",
+  "creado": 46,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 18.513,
+  "localidad": "Punta Cana",
+  "lon": -68.377,
+  "nombre": "La Cana Golf",
+  "notas": "",
+  "origen": "jugado",
+  "pais": "República Dominicana",
+  "paisId": "DOM",
+  "region": "La Altagracia"
+ },
+ {
+  "id": "c047",
+  "creado": 47,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 18.453,
+  "localidad": "Cap Cana",
+  "lon": -68.399,
+  "nombre": "Punta Espada",
+  "notas": "",
+  "origen": "sin",
+  "pais": "República Dominicana",
+  "paisId": "DOM",
+  "region": "La Altagracia"
+ },
+ {
+  "id": "c048",
+  "creado": 48,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 18.427,
+  "localidad": "La Romana",
+  "lon": -68.972,
+  "nombre": "La Romana",
+  "notas": "",
+  "origen": "sin",
+  "pais": "República Dominicana",
+  "paisId": "DOM",
+  "region": "La Romana"
+ },
+ {
+  "id": "c049",
+  "creado": 49,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 18.406,
+  "localidad": "La Romana",
+  "lon": -68.905,
+  "nombre": "Casa de Campo",
+  "notas": "",
+  "origen": "sin",
+  "pais": "República Dominicana",
+  "paisId": "DOM",
+  "region": "La Romana"
+ },
+ {
+  "id": "c050",
+  "creado": 50,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": 34.05,
+  "localidad": "Johns Creek (Atlanta)",
+  "lon": -84.17,
+  "nombre": "The Standard Club 1867",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Estados Unidos",
+  "paisId": "USA",
+  "region": "Georgia"
+ },
+ {
+  "id": "c051",
+  "creado": 51,
+  "lapices": [
+   {
+    "color": "",
+    "nombre": ""
+   }
+  ],
+  "lat": -25.47,
+  "localidad": "Malelane",
+  "lon": 31.528,
+  "nombre": "Leopard Creek",
+  "notas": "",
+  "origen": "sin",
+  "pais": "Sudáfrica",
+  "paisId": "ZAF",
+  "region": "Mpumalanga"
+ }
+]
